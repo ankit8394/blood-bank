@@ -1,0 +1,82 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+
+#aqwe{
+	height: 100vh;
+	padding: 0px;
+		background: url("images/dna.webp");
+	background-size:cover;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+
+	
+
+}
+
+.hero{
+	height: 55%;
+	width: 40%;
+	background: transparent;
+	backdrop-filter: invert(90%);
+	box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+	padding: 30PX;
+	color: #000;
+	border-radius: 5px;
+	font-weight: 600;
+}
+
+sup{
+	color: red;
+	font-weight: 600;
+	font-size: 15px;
+}
+
+
+input{
+ all: unset;
+}
+::placeholder{
+	color: aliceblue;
+}
+.in{
+	border-bottom: 2px solid #000;
+	width: 100%;
+}
+#r1{
+	margin-top: 40px;
+}
+
+#r2{
+	margin-top: 40px;
+}
+
+#r3{
+	margin-top: 40px;
+}
+button{
+	width: 200px;
+	letter-spacing: 2px;
+}
+
+ #uuu{
+background: #ff7f6b;
+padding: 8px;
+border-radius: 20px;
+}
+
+@media only screen and (max-width: 766px){
+
+.hero{
+	
+	width: 100%;
+	z-index: 1;
+}
+}
+
+
+
+

@@ -1,0 +1,47 @@
+#ro{
+	display: flex;
+	justify-content: space-between;
+	background: #333333;
+	padding: 18px 12px 8px 12px;
+	position: relative;
+}
+
+
+.list li{
+	display: inline-block;
+	
+position: relative;
+}
+.c1{
+	color: red;
+
+}
+
+.c2{
+	color: #fff;
+	padding-right: 45px;
+}
+
+
+
+
+
+a{
+	color: #fff;
+	text-decoration: none;
+}
+.mlist{
+	display: none;
+	position: absolute;
+	background: skyblue;
+	color: #fff;
+	z-index: 2;
+	
+	
+	width: 160px;
+	padding: 0px 0px 0px 15px;
+}
+.list li:hover .mlist {
+	display: block;
+}
+

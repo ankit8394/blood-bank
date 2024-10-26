@@ -1,0 +1,18 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+.container{
+	height: 99.5vh;
+	padding-left: 200px;
+
+	
+}
+.da{
+	margin-top: 50px;
+}
+
+.qwwq{
+	background: rgb(137,245,102);
+background: linear-gradient(90deg, rgba(137,245,102,1) 35%, rgba(81,228,255,1) 100%);
+}

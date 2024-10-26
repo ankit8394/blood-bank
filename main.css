@@ -1,0 +1,74 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+.container{
+	height: 99.5vh;
+	padding-left: 200px;
+
+	
+}
+.da{
+	margin-top: 50px;
+}
+#rw{
+	
+	margin-top: 100px;
+
+
+	
+
+}
+
+#cl1{
+	padding-bottom: 10px;
+}
+
+
+#cl2{
+	padding-bottom: 10px;
+}
+
+#cl1 .card{
+	background: #d5e9f7;
+	border-radius: 30px;
+}
+
+#cl1 .card #bda{
+	text-align: center;
+	padding-bottom: 20px;
+}
+
+#de{
+	width:100px;
+	border: none;
+	background: indianred;
+
+}
+
+#cl2 .card{
+	background: #abebc6;
+	border-radius: 30px;
+	
+}
+
+#cl2 .card #bda{
+	text-align: center;
+	padding-bottom: 20px;
+}
+
+
+#cl3 .card{
+	background: #e9daf0;
+	border-radius: 30px;	
+}
+
+#cl3 .card #bda{
+	text-align: center;
+	padding-bottom: 20px;
+}
+.mai{
+	background: rgb(137,245,102);
+background: linear-gradient(90deg, rgba(137,245,102,1) 35%, rgba(81,228,255,1) 100%);
+}
+

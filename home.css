@@ -1,0 +1,55 @@
+
+
+.wel{
+	margin-top: 40px;
+	display: flex;
+	justify-content: center;
+}
+.ro .card{
+	height: 250px;
+	width: 25%;
+	border: 1px solid grey;
+	border-radius: 0px;
+
+}
+.pa{
+	overflow-y:scroll ;
+}
+
+.ro{
+	display: flex;
+	justify-content: space-between;
+	margin-top: 40px;
+
+}
+
+.bg{
+	margin-top: 40px;
+}
+
+.blood1{
+	width: 60%;
+}
+.blood2{
+	width: 40%;
+}
+
+#roq .col-md-3 .card{
+	border: solid 1px #000;
+	border-radius: 0px;
+	padding-top: 10px;
+
+}
+#bad{
+	width:80%;
+}
+
+@media only screen and (max-width: 430px){
+	#bad1{
+		padding-bottom: 20px;
+	}
+}
+
+
+
+
