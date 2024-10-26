@@ -4,6 +4,7 @@
 	</div>
 	<div class="c2">
 		<ul class="list" >
+			<li><a href="index.php">Home</a></li>
 			<li ><a href="about.php" style="" id="about">About Us</a></li>
 			<li><a href="db.php" id="db">Why Donate Blood</a></li>
 			<li ><a href="bd.php" id="bd" >Become A Donor</a></a></li>
@@ -17,6 +18,7 @@
 	<!--Mobile -->
 	<div class="c3" style="z-index: 2;">
 		<ul class="mlist" >
+			<li><a href="/">Home</a></li>
 			<li id="about" ><a href="about.php" >About Us</a></li>
 			<li id="db"><a href="db.php "  >Why Donate Blood</a></li>
 			<li id="bd"><a href="bd.php" >Become A Donor</a></li>

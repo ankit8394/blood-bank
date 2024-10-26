@@ -7,7 +7,7 @@
 #aqwe{
 	height: 100vh;
 	padding: 0px;
-		background: url("images/dna.webp");
+	background: url("images/dna.webp");
 	background-size:cover;
 	display: flex;
 	align-items: center;
